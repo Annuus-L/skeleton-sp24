@@ -7,6 +7,7 @@ public class MapExercises {
      */
     public static Map<Character, Integer> letterToNum() {
         // TODO: Fill in this function.
+        
         return null;
     }
 
